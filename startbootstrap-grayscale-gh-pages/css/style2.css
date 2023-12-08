@@ -1,0 +1,14 @@
+body { background-color: lavender;}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(11, 14, 158);
+    position: absolute;
+    top: auto;
+    left: auto;}
+
+    .div2 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+position: absolute;
+top: auto;
+left: auto;}
